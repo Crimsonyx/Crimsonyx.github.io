@@ -15,6 +15,7 @@ h1 {
   border-right: 3px solid #aa9c72;
   border-bottom-style: groove;
   border-right-style: groove;
+  background-color: rgba(0,0,0,0.3);
   font-size: 2rem;
   width: fit-content;
 }
@@ -30,6 +31,7 @@ header.dog {
   background-image: url("dog.jpg");
   background-size: cover;
   height: 100%;
+  max-width: 100%;
 }
 
 header.dog hr {
